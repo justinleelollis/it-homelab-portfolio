@@ -1,5 +1,3 @@
-# it-homelab-portfolio
-Hands-on IT home lab projects documenting Linux administration, Windows Server, networking, and troubleshooting.
 # IT Home Lab Portfolio
 
 ## About This Repository
